@@ -1,0 +1,7 @@
+mx\unam\aragon\ico\is\videojuegos\VideojuegosApplication.class
+mx\unam\aragon\ico\is\videojuegos\controllers\VideojuegoRestController.class
+mx\unam\aragon\ico\is\videojuegos\services\interfaces\VideojuegoService.class
+mx\unam\aragon\ico\is\videojuegos\services\VideojuegoServiceImpl.class
+mx\unam\aragon\ico\is\videojuegos\exceptions\ManejadorGlobalExcepciones.class
+mx\unam\aragon\ico\is\videojuegos\entities\Videojuego.class
+mx\unam\aragon\ico\is\videojuegos\reporsitories\VideojuegoRepository.class
